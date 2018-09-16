@@ -1,7 +1,8 @@
 # propuestas-meetup
-Este repo tiene como propósito proponer temas para los meetups. Al mismo tiempo, otros miembros pueden votar por las charlas.
+Este repo tiene como propósito proponer temas para los meetups. 
+Al mismo tiempo, otros miembros pueden proponer temas que quieran exponer.
 
 Para realizar una propuesta, seguir los siguientes pasos:
 
-. Registrar un https://github.com/DataScienceResearchPeru/propuestas-meetup/issues con el tópico y una descripción
+. Registrar un https://github.com/DataScienceResearchPeru/propuestas-meetup/issues con el tema y una descripción
 . Asignar label `workshop`, `talk`
