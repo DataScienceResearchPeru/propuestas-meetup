@@ -3,6 +3,5 @@ Este repo tiene como propósito proponer temas para los meetups. Al mismo tiempo
 
 Para realizar una propuesta, seguir los siguientes pasos:
 
-Registrar un issue con el tópico y una descripción
-
-Asignar label workshop, talk
+. Registrar un https://github.com/DataScienceResearchPeru/propuestas-meetup/issues[issue^] con el tópico y una descripción
+. Asignar label `workshop`, `talk`
